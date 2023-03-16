@@ -32,6 +32,18 @@
             }
           },
           {
+            "id": "f520ddb7eff5b3a2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "sessions/20230316.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "67419280a50220bb",
             "type": "leaf",
             "state": {
@@ -44,7 +56,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -110,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sessions/20230228.md",
+                "file": "sessions/20230316.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sessions/20230228.md",
+                "file": "sessions/20230316.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sessions/20230228.md"
+                "file": "sessions/20230316.md"
               }
             }
           }
@@ -171,11 +183,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d60918e7e36ac41b",
+  "active": "f520ddb7eff5b3a2",
   "lastOpenFiles": [
-    "overview.md",
     "sessions/20230228.md",
+    "sessions/20230316.md",
     "sessions/20230221.md",
+    "overview.md",
     "cpp/C++.md",
     "audio/Audio Processing.md",
     "cs/Computer Science.md",

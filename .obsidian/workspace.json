@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sessions/20230316.md",
+                "file": "sessions/20230321.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sessions/20230316.md",
+                "file": "sessions/20230321.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sessions/20230316.md",
+                "file": "sessions/20230321.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sessions/20230316.md"
+                "file": "sessions/20230321.md"
               }
             }
           }
@@ -183,10 +183,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f520ddb7eff5b3a2",
+  "active": "3fd461a8e4090755",
   "lastOpenFiles": [
     "sessions/20230228.md",
-    "sessions/20230316.md",
+    "sessions/20230321.md",
     "sessions/20230221.md",
     "overview.md",
     "cpp/C++.md",
